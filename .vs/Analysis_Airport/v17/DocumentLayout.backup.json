@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_AssginacionTripulantes.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|solutionrelative:Analysis_Airport\\CUBE_AssginacionTripulantes.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Luggage.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|solutionrelative:Analysis_Airport\\CUBE_Luggage.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Payment.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|solutionrelative:Analysis_Airport\\CUBE_Payment.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Booking.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{48FA5184-4905-44BC-8703-D3958D5BFFF1}|Analysis_Airport\\Analysis_Airport.dwproj|solutionrelative:Analysis_Airport\\CUBE_Booking.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 236,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUBE_AssginacionTripulantes.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_AssginacionTripulantes.cube",
+              "RelativeDocumentMoniker": "Analysis_Airport\\CUBE_AssginacionTripulantes.cube",
+              "ToolTip": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_AssginacionTripulantes.cube [Design]",
+              "RelativeToolTip": "Analysis_Airport\\CUBE_AssginacionTripulantes.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T23:01:29.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CUBE_Luggage.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Luggage.cube",
+              "RelativeDocumentMoniker": "Analysis_Airport\\CUBE_Luggage.cube",
+              "ToolTip": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Luggage.cube [Design]",
+              "RelativeToolTip": "Analysis_Airport\\CUBE_Luggage.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T21:46:03.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUBE_Payment.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Payment.cube",
+              "RelativeDocumentMoniker": "Analysis_Airport\\CUBE_Payment.cube",
+              "ToolTip": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Payment.cube [Design]",
+              "RelativeToolTip": "Analysis_Airport\\CUBE_Payment.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T20:42:44.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CUBE_Booking.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Booking.cube",
+              "RelativeDocumentMoniker": "Analysis_Airport\\CUBE_Booking.cube",
+              "ToolTip": "C:\\Users\\BRAYAN\\source\\repos\\Analysis_Airport\\Analysis_Airport\\CUBE_Booking.cube [Design]",
+              "RelativeToolTip": "Analysis_Airport\\CUBE_Booking.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T20:24:41.07Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
